@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ "$EUID" -ne 0 ]; then
-echo Please run this script as root.
+echo 请以管理员身份执行此脚本.
 else
 
 echo "安装一些需要的依赖库"
