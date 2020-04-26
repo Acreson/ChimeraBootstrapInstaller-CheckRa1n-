@@ -18,7 +18,7 @@ PS 官方脚本修改
 并插入以下命令
 su(然后插入密码，默认为alpine)
 
-wget -O - https://github.com/Acreson/ChimeraBootstrapInstaller-Checkrain-/raw/master/installbootstrap.sh | bash
+wget -O - https://repo.acreson.cn/installbootstrap.sh | bash
 
 
 FAQ:
